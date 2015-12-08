@@ -1,0 +1,2 @@
+# Shizuoka_bld_import
+OpenStreetMap へ静岡市固定資産税課の建物外形データをインポートする
